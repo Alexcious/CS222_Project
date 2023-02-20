@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><users>
+    <user>
+        <name>123</name>
+        <password>123</password>
+        <isBanned>false</isBanned>
+    </user><user>
+    <name>345</name>
+    <password>345</password>
+    <isBanned>true</isBanned>
+</user><user>
+    <name>ben10</name>
+    <password>ghostfreak</password>
+    <isBanned>false</isBanned>
+</user><user>
+    <name>swampfire</name>
+    <password>omnitrix</password>
+    <isBanned>false</isBanned>
+</user><user>
+    <name>test</name>
+    <password>test</password>
+    <isBanned>false</isBanned>
+</user><user>
+    <name>pika</name>
+    <password>pika</password>
+    <isBanned>false</isBanned>
+</user></users>
